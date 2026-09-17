@@ -21,5 +21,6 @@ Viewing Build Status and Build Log.
 ## Support
 To learn more about custom images, please see our knowledge base:
 
-Cloud Container - https://kb.sitehost.nz/cloud-containers
-Custom Images - https://kb.sitehost.nz/cloud-containers/custom-images
+- Cloud Containers - https://kb.sitehost.nz/cloud-containers
+
+- Custom Images - https://kb.sitehost.nz/cloud-containers/custom-images
